@@ -1,6 +1,6 @@
 /*
  * Sea Shell
- * The coolest GNU/Linux shell ever.
+ * The most awesome GNU/Linux shell ever.
  *
  * Copyright (C) 2013 Almir Dzinovic <almir@dzinovic.net>
  *
@@ -21,7 +21,7 @@
 
 int main (void)
 {
-   printf ("\x1b[36mWelcome to \x1b[31mSea Shell\x1b[36m, the coolest shell in the world.\x1b[0m\n");
+   printf ("\x1b[36mWelcome to \x1b[31mSea Shell\x1b[36m! The most awesome shell on Earth.\x1b[0m\n");
    printf("\x1b[33m\"Everytime I get sad, I stop beeing sad and be awesome instead. True story.\" \x1b[31m(\x1b[32mBarney Stinson\x1b[31m)\x1b[0m\n");
    system ("bash");
    return 0;
