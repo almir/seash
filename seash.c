@@ -22,7 +22,7 @@
 int main (void)
 {
    printf ("\x1b[36mWelcome to \x1b[31mSea Shell\x1b[36m, the coolest shell in the world.\x1b[0m\n");
-   printf("\x1b[33mEverytime I get sad, I stop beeing sad and be awesome instead. True story.\x1b[0m\n");
+   printf("\x1b[33mEverytime I get sad, I stop beeing sad and be awesome instead. True story!\x1b[0m\n");
    system ("bash");
    return 0;
 }
